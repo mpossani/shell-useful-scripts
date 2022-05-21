@@ -6,6 +6,9 @@ List all folders inside the folder provided as parameter.
 
 Samples:
 
+```
 ./mysh-do-list-folders.sh ~
-
-./mysh-do-list-folders.sh
+```
+```
+./mysh-do-list-folders.sh /var/www
+```
